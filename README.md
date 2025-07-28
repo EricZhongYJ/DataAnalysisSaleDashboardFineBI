@@ -23,7 +23,7 @@ This dashboard was built using FineBI to analyze transaction data from an intern
 - Top-performing cities and categories (e.g., sao paulo, beleza_saude)
 
 ### 4. Customer Analysis
-- Word cloud of customer reviews (Portuguese)
+- Word cloud of customer cities (in Portuguese)
 - RFM segmentation analysis
 - Customer loyalty segmentation (new, active, churned)
 
