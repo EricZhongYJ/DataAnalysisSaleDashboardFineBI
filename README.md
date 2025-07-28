@@ -35,6 +35,10 @@ This dashboard was built using FineBI to analyze transaction data from an intern
 - Comprehensive multi-dimensional insights
 - Supports market strategy, business optimization, and customer segmentation for cross-border e-commerce
 
+Also use MySQL([MySQLCode.sql](MySQLCode.sql)) to do some simple analysis. Results are shown below:
+
+<img width="1286" height="174" alt="image" src="https://github.com/user-attachments/assets/dfd482c6-e085-4d7f-aff9-637b0f9ceac1" />
+
 ## 📈 Screenshot
 
 ![](DashboardScreenShot.jpg)
